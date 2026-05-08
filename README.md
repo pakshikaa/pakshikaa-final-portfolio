@@ -1,13 +1,27 @@
-# Pakshikaa Elango Final Polished Portfolio
+# Pakshikaa Elango Portfolio
 
-Final corrections included:
-- Removed image bottom strip
-- Same base color for all project cards
-- Project cards darken only on hover
-- Cursor glow effect
-- Scroll progress bar
-- Navbar shrink on scroll
-- Reveal animations
-- Correct hero image
-- Resume link
-- Six projects
+Modern and responsive personal portfolio website for showcasing QA engineering skills, projects, and professional experience.
+
+## Features
+
+- Elegant premium UI design
+- Responsive layout
+- Professional QA-focused branding
+- Resume download option
+- Contact section with social links
+- Smooth scrolling and hover effects
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+
+## Live Website
+
+Deployed with Vercel.
+
+## Author
+
+Pakshikaa Elango  
+Associate QA Engineer
